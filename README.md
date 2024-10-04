@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrvihaan031" target="blank"><img src="https://img.shields.io/twitter/follow/mrvihaan031?logo=twitter&style=for-the-badge" alt="mrvihaan031" /></a> </p>
 
-- 🔭 I’m currently working on **Not Yet**
+- 🔭 I’m currently Joining on **JSpider**
 
-- 🌱 I’m currently learning **React, FrameWork**
+- 🌱 I’m currently learning **SQL,JAVA and DSA With JAVA**
 
 - 👯 I’m looking to collaborate on **Friends Circle**
 
@@ -18,9 +18,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-71196.web.app](https://portfolio-71196.web.app)
 
-- 📝 I regularly write articles on [CodeChef](CodeChef)
+- 📝 I regularly write my Some Activity on Linkdin
 
-- 💬 Ask me about **C, C++, Java, Python, HTML, CSS and JavaScript**
+- 💬 Ask me about **JAVA, DSA, SQL, C++, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **mrvihaan031@gmail.com**
 
@@ -32,7 +32,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/vishal-kumar-974713273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishal-kumar-974713273" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100013213158997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013213158997" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_vihaan031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_vihaan031" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishal0031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal0031" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
