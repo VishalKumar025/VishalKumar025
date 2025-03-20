@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal3031&label=Profile%20views&color=0e75b6&style=flat" alt="vishal3031" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrvihaan031" target="blank"><img src="https://img.shields.io/twitter/follow/mrvihaan031?logo=twitter&style=for-the-badge" alt="mrvihaan031" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrViHaaN43" target="blank"><img src="https://img.shields.io/twitter/follow/mrvihaan03?logo=twitter&style=for-the-badge" alt="mrViHaaN43" /></a> </p>
 
 - 🔭 I’m currently Joining on **JSpider**
 
