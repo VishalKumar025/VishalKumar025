@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-<img src="https://github.com/VishalKumar025/VishalKumar025/blob/main/assets/developer.gif?raw=true" alt="Developer at Work" width="100%" />
+<img src="https://github.com/VishalKumar025/VishalKumar025/blob/main/developer.gif?raw=true" alt="Developer at Work" width="100%" />
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
