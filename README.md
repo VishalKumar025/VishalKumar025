@@ -1,8 +1,8 @@
 
-<img src="https://www.canva.com/design/DAGpgS-39-I/zv9HwKg_7kHp7NHC3nZioQ/edit?utm_content=DAGpgS-39-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Developer at Work" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
+<img src="https://github.com/VishalKumar025/VishalKumar25.git" alt="Developer at Work" width="100%" />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
