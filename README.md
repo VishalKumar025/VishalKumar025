@@ -6,7 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalKumar025&label=Profile%20views&color=0e75b6&style=flat" alt="VishalKumar025" /> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/vishal-kumar-974713273" target="blank"><img src="https://img.shields.io/linkedin/follow/Vishal-Kumar-974713273?logo=twitter&style=for-the-badge" alt="Vishal Kumar" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishal-kumar-974713273" target="_blank">
+    <img src="https://img.shields.io/linkedin/follow/Vishal-Kumar-974713273?logo=linkedin&style=for-the-badge" alt="Vishal Kumar" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently Joining on **JSpider**
 
