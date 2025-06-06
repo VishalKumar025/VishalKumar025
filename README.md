@@ -1,5 +1,5 @@
 
-<img src="https://1.bp.blogspot.com/-7A4ywnwLsMw/XbBpCXG8FHI/AAAAAAAAMt4/UoA1bpLskYgrwGbllhsu2SDj_Mig8SXJQQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding Challenge Banner" width="100%" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Developer at Work" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
