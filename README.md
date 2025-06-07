@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-71196.web.app](https://portfolio-71196.web.app)
 
-- 📝 I regularly write my Some Activity on Linkdin
+- 📝 I regularly write my Some Activity on Linkedin
 
 - 💬 Ask me about **JAVA Core, DSA, SQL, HTML, CSS and JavaScript**
 
