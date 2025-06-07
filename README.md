@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#f39c12;">Vishal Kumar</span>!</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
 <img src="https://raw.githubusercontent.com/VishalKumar025/VishalKumar025/main/assets/developer.gif" alt="Developer GIF" width="100%" />
